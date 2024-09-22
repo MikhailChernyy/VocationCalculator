@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92277fcc-3040-4be7-a77c-47daeb6926c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/neoflex/VocationCalculator/VocationCalculateServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/neoflex/VocationCalculator/VocationCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/neoflex/VocationCalculator/VocationCalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/neoflex/VocationCalculator/controller/VocationCalculateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/neoflex/VocationCalculator/service/VocationCalculateServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mIJWLRduae8NZBOE6ryWZUUBEE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.VocationCalculatorApp.executor": "Run",
+    "JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturn0.executor": "Run",
+    "JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturnRightVocationPay.executor": "Run",
+    "JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturnZeroWithNegativeParameters.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.neoflex.VocationCalculator.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturnRightVocationPay">
+    <configuration name="VocationCalculateServiceImplTest.vocationCalculateShouldReturn0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocationCalculator" />
+      <option name="PACKAGE_NAME" value="ru.neoflex.VocationCalculator.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.neoflex.VocationCalculator.service.VocationCalculateServiceImplTest" />
+      <option name="METHOD_NAME" value="vocationCalculateShouldReturn0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocationCalculateServiceImplTest.vocationCalculateShouldReturnRightVocationPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocationCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.neoflex.VocationCalculator.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.neoflex.VocationCalculator.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.neoflex.VocationCalculator.service.VocationCalculateServiceImplTest" />
+      <option name="METHOD_NAME" value="vocationCalculateShouldReturnRightVocationPay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocationCalculateServiceImplTest.vocationCalculateShouldReturnZeroWithNegativeParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocationCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.neoflex.VocationCalculator.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.neoflex.VocationCalculator.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.neoflex.VocationCalculator.service.VocationCalculateServiceImplTest" />
+      <option name="METHOD_NAME" value="vocationCalculateShouldReturnZeroWithNegativeParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturnRightVocationPay" />
+        <item itemvalue="JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturnZeroWithNegativeParameters" />
+        <item itemvalue="JUnit.VocationCalculateServiceImplTest.vocationCalculateShouldReturn0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92277fcc-3040-4be7-a77c-47daeb6926c8" name="Changes" comment="" />
+      <created>1726758187487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726758187487</updated>
+    </task>
+    <servers />
+  </component>
+</project>
